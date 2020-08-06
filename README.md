@@ -1,6 +1,7 @@
-***********Picture In Picture****************
+***************************
+Picture In Picture
 
+***************************
+Please note, this project will only run using Google Chrome.
 
-
-This project will only run using Google Chrome.
-
+***************************
